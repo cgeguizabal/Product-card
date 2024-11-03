@@ -127,6 +127,13 @@ body {
   cursor: pointer;
 }
 
+.attribution {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  transform: translateY(-5rem);
+}
+
 @media (max-width: 560px) {
   .perfume1 {
     display: none;
